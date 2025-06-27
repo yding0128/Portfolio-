@@ -27,12 +27,12 @@
 **Goal**: Build a Patient Tracker System, which is designed for doctors and healthcare professionals for data recording. This digital system replaces traditional paper records and allows doctors to access patient records remotely and update the database in real time. 
 
 **Entity-Relationship Diagram (ERD)**
-![image](https://hackmd.io/_uploads/Skh5NTsVeg.png)
+![image](assets/image1.jpg)
 
 **Relational Schema**
-![image](![image](https://github.com/user-attachments/assets/dbe8d753-9e34-4a8d-9331-9c2547ea91cc))
+![image](assets/image11.jpg)
 
-Software Development Report: [Patient Tracker System Report.pdf](https://github.com/yding0128/Portfolio-/blob/main/Patient%20Tracker%20System%20Report.pdf)
+**Software Development Report**: [Patient Tracker System Report.pdf](https://github.com/yding0128/Portfolio-/blob/main/Patient%20Tracker%20System%20Report.pdf)
 
 
 ## 4. Dashboard Development for Salary Analysis
