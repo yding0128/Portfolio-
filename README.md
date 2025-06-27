@@ -4,6 +4,7 @@
 **Goal**: To preprocess and analyze detailed student clicking stream data from an online assessment platform. The objective is to extract behavioral patterns (like excessive attempts, speed, calculator usage, etc.), compute final grades, and label students based on their testing duration for use in machine learning and further  research.
 
 **Input**: `data_all.json`  contains detailed logs for each student, including per-question interaction stats, time deltas, and assistive tool usage.
+
 **Output**: `processed_data_2w.json` is a JSON file includes these derived features and labels like test grades, tool usage (e.g., calculator), time spent, visit frequency, and behavioral flags.
 
 **Python Script**: [data_process (1).py](https://github.com/yding0128/Portfolio-/blob/main/data_process%20(1).py)
