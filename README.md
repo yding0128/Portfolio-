@@ -27,10 +27,10 @@
 **Goal**: Build a Patient Tracker System, which is designed for doctors and healthcare professionals for data recording. This digital system replaces traditional paper records and allows doctors to access patient records remotely and update the database in real time. 
 
 **Entity-Relationship Diagram (ERD)**
-![image](assets/image1.jpg)
+![image](image1.jpg)
 
 **Relational Schema**
-![image](assets/image11.jpg)
+![image](image1.jpg)
 
 **Software Development Report**: [Patient Tracker System Report.pdf](https://github.com/yding0128/Portfolio-/blob/main/Patient%20Tracker%20System%20Report.pdf)
 
