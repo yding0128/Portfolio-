@@ -30,7 +30,7 @@
 ![image](image1.jpg)
 
 **Relational Schema**
-![image](image1.jpg)
+![image](image11.jpg)
 
 **Software Development Report**: [Patient Tracker System Report.pdf](https://github.com/yding0128/Portfolio-/blob/main/Patient%20Tracker%20System%20Report.pdf)
 
