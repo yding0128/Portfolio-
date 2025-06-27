@@ -13,6 +13,7 @@
 
 ## 2. Data Processing in SQL
 **Goal**: This collection of SQL queries focuses on analyzing relationships between employees, departments, and work assignments within an organizational database.
+
 **Dataset**: Relational schema 
 - `Emp`: Employee details (eid, ename, age, salary)
 - `Dept`: Department info (did, dname, budget, managerid)
@@ -26,17 +27,19 @@
 **Goal**: Build a Patient Tracker System, which is designed for doctors and healthcare professionals for data recording. This digital system replaces traditional paper records and allows doctors to access patient records remotely and update the database in real time. 
 
 **Entity-Relationship Diagram (ERD)**
-![image](https://hackmd.io/_uploads/Skh5NTsVeg.png)
+![image]([https://hackmd.io/_uploads/Skh5NTsVeg.png](https://hackmd.io/POeskfTRSMe2DXcp6cHC-A?stext=1430%3A51%3A0%3A1751012419%3Al70cT9&both=))
 
 **Relational Schema**
-![image](https://hackmd.io/_uploads/r15wVTs4ll.png)
+![image]([https://hackmd.io/_uploads/r15wVTs4ll.png](https://hackmd.io/POeskfTRSMe2DXcp6cHC-A?both=&stext=1505%3A51%3A0%3A1751012442%3AZdJ9kS))
 
 Software Development Report: [Patient Tracker System Report.pdf](https://github.com/yding0128/Portfolio-/blob/main/Patient%20Tracker%20System%20Report.pdf)
 
 
 ## 4. Dashboard Development for Salary Analysis
 **Goal**: To create a dashboard for analyzing the correlation between states, graduation number/rate, and compensation with a focus on identifying high and low-paying jobs in the job market and understanding the influence of graduation on state annual earnings
+
 **Conclusion**: States with higher graduation numbers and rates tend to have a higher annual state earning
+
 **Report**: [Final PowerPoint Report ](https://github.com/yding0128/Portfolio-/blob/main/Salary%20Analysis%20-%20Final%20PowerPoint%20Report.pdf)
 
 ## 5. Case Study - Airbnb Visual Insights
@@ -58,6 +61,7 @@ Software Development Report: [Patient Tracker System Report.pdf](https://github.
 
 ## 6. Case Study - Business & Population Mapping in U.S.
 **Goal**: Validates data integrity and uncovers insights about business distribution and entrepreneurship across U.S. states
+
 **Tables**:
   - `Table 1`: Establishments by state abbreviation
   - `Table 2`: Establishments by state name (joined)
@@ -74,7 +78,9 @@ Software Development Report: [Patient Tracker System Report.pdf](https://github.
 
 ## 7. Case Study - Pivot Tables 
 **Goal**: Create a PivotTable in Microsoft Excel to analyse the data using multi-dimensional reporting
+
 **Dataset**: `BicycleCompanyDEValues`   contains raw transactional data for a bicycle company. It includes 48,244 rows, each representing an individual sales record. 
+
 **Worksheet C1-5**: Sales by Product Group & Sales Organization
 - Show total revenue by `Material Group` and `Sales Organization`  (Berlin, Magdeburg, Munich).
   - Filtered to show only:
