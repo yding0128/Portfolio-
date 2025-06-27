@@ -7,7 +7,7 @@
 
 **Output**: `processed_data_2w.json` is a JSON file includes these derived features and labels like test grades, tool usage (e.g., calculator), time spent, visit frequency, and behavioral flags.
 
-**Python Script**: [data_process (1).py](https://github.com/yding0128/Portfolio-/blob/main/data_process%20(1).py)
+**Python Script**: [data_process.py](https://github.com/yding0128/Portfolio-/blob/main/data_process.py), [data_process (1).py](https://github.com/yding0128/Portfolio-/blob/main/data_process%20(1).py)
 
 **Final Report**: [ML Model Based Students Online Exam Behaviors Prediction Final Report.pdf](https://github.com/yding0128/Portfolio-/blob/main/ML%20Model%20Based%20Students%20Online%20Exam%20Behaviors%20Prediction%20Final%20Report.pdf)
 
